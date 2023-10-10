@@ -26,9 +26,9 @@ class Security {
         //this.button3.position(100,320);
         //this.button3.style('background', 'lightgrey'); 
 
-        //this.button3 = createInput('Verificar');
-        //this.button3.position(100,320);
-        //this.button3.style('background', 'lightgrey'); 
+        this.button3 = createInput('Verificar');
+        this.button3.position(100,320);
+        this.button3.style('background', 'lightgrey'); 
 
         //this.button3 = createButton('Verificar');
         //this.button3.position(x,30);
@@ -63,9 +63,9 @@ class Security {
                 //this.access3(hide)();
                 //score++;
 
-                //this.button3.hide();
-                //this.access3.hide();
-                //score++;
+                this.button3.hide();
+                this.access3.hide();
+                score++;
 
                 //this.button3.hidden();
                 //this.access3.hidden();
